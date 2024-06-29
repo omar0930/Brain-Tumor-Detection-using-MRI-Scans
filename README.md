@@ -5,3 +5,5 @@ Model Building:
 - Compile the model with appropriate loss function and optimizer.
 - Train the model using the training dataset.
 - Libraries: NumPy, Pandas, Matplotlib, OpenCV, PIL, Scikit-learn, TensorFlow/Keras, Seaborn
+- The Used DataSet (Brain MRI Images for Brain Tumor Detection) : https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+

@@ -4,4 +4,4 @@ Model Building:
 - Use a CNN architecture to build the model.
 - Compile the model with appropriate loss function and optimizer.
 - Train the model using the training dataset.
-  Libraries: NumPy, Pandas, Matplotlib, OpenCV, PIL, Scikit-learn, TensorFlow/Keras, Seaborn
+- Libraries: NumPy, Pandas, Matplotlib, OpenCV, PIL, Scikit-learn, TensorFlow/Keras, Seaborn
